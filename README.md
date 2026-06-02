@@ -1,6 +1,7 @@
 # SkillUp FAQ Bot
 
 Telegram-бот для онлайн-школы **SkillUp** - отвечает на частые вопросы об обучении через inline-меню.
+Сслыка: hhtps://t.me/skillup_faq_bot
 
 ## Возможности
 
