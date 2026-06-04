@@ -12,22 +12,7 @@ Telegram-бот для онлайн-школы **SkillUp** - отвечает н
 
 ## Стек
 
-- Python 3.11+
-- [aiogram 3](https://docs.aiogram.dev/) - асинхронный фреймворк для Telegram Bot API
-- python-dotenv — управление переменными окружения
+- Python
+- [aiogram 3](https://docs.aiogram.dev/) 
+- python-dotenv
 
-## Структура проекта
-
-```
-skillup-faq-bot/
-├── bot.py               # Точка входа, polling
-├── handlers/
-│   ├── start.py         # /start и /help
-│   └── faq.py           # Обработчики inline-кнопок
-├── keyboards/
-│   └── main_kb.py       # Главное меню и кнопка «Назад»
-├── data/
-│   └── content.json     # Тексты всех разделов
-├── .env.example         # Шаблон переменных окружения
-└── requirements.txt
-```
