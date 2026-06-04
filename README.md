@@ -14,5 +14,5 @@ Telegram-бот для онлайн-школы **SkillUp** - отвечает н
 
 - Python
 - [aiogram 3](https://docs.aiogram.dev/) 
-- python-dotenv
+
 
